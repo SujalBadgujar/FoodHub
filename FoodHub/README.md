@@ -45,7 +45,7 @@ Before you begin, ensure you have **Node.js** and **npm** (Node Package Manager)
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rashmantri/FoodZila.git
+git clone https://github.com/SujalBadgujar/FoodHub.git
 cd FoodZila
 ```
 
