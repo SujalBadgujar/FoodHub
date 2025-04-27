@@ -1,4 +1,4 @@
-# FoodZila
+# FoodHub
 
 **FoodZila** is an intuitive online food ordering and delivery platform that bridges the gap between customers and local restaurants, offering a seamless, enjoyable, and efficient experience. Designed with a focus on modern web development best practices, FoodZila utilizes cutting-edge technologies like **ReactJS** and **Tailwind CSS** to deliver a fast, responsive, and visually appealing user interface for food lovers.
 
