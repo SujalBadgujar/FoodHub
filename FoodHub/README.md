@@ -1,6 +1,6 @@
 # FoodHub
 
-**FoodZila** is an intuitive online food ordering and delivery platform that bridges the gap between customers and local restaurants, offering a seamless, enjoyable, and efficient experience. Designed with a focus on modern web development best practices, FoodZila utilizes cutting-edge technologies like **ReactJS** and **Tailwind CSS** to deliver a fast, responsive, and visually appealing user interface for food lovers.
+**FoodHub** is an intuitive online food ordering and delivery platform that bridges the gap between customers and local restaurants, offering a seamless, enjoyable, and efficient experience. Designed with a focus on modern web development best practices, FoodHub utilizes cutting-edge technologies like **ReactJS** and **Tailwind CSS** to deliver a fast, responsive, and visually appealing user interface for food lovers.
 
 ## Key Features
 
@@ -46,7 +46,7 @@ Before you begin, ensure you have **Node.js** and **npm** (Node Package Manager)
 
 ```bash
 git clone https://github.com/SujalBadgujar/FoodHub.git
-cd FoodZila
+cd FoodHub
 ```
 
 ### 2. Install Dependencies
